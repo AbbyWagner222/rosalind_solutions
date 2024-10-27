@@ -2,6 +2,11 @@
 
 My problem solutions from Rosalind
 
+Important Bash Commands
+
+> ls - List files in directory
+
+
 Command to start jupyter
 
 > Open up terminal
