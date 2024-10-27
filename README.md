@@ -2,6 +2,18 @@
 
 My problem solutions from Rosalind
 
+Command to start jupyter
+
+> Open up terminal
+>
+> cd rosalind_solutions
+> jupyter notebook
+>
+
+Command to stop jupyter
+
+> [Ctrl] - C
+
 Commands to save jupyter changes to github repo
 > Make your changes in jupyter directly
 > 
