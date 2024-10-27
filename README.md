@@ -4,7 +4,9 @@ My problem solutions from Rosalind
 
 Commands to save jupyter changes to github repo
 > Make your changes in jupyter directly
+> 
 > git commit -a -m "made changes"
+> 
 > git push
 >
 
