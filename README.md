@@ -1,6 +1,9 @@
-# rosalind_solutions
+This repository contains my solutions to select problems on Rosalind.
 
-My problem solutions from Rosalind
+
+
+
+
 
 Important Bash Commands
 
